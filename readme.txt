@@ -1,0 +1,1 @@
+Some notes of java study.
