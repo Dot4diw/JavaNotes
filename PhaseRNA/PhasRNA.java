@@ -1,7 +1,7 @@
 package PhasRNA;
 
 /***
- * @ Author guosy
+ * @ Author Dot4diw
  * @ Function
  */
 import java.io.File;
